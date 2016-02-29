@@ -16,7 +16,7 @@ class VotesterApp extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Votester
+          Welcome to Votester
         </Text>
       </View>
     );
