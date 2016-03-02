@@ -2,6 +2,7 @@
  * Sample React Native App
  * https://github.com/facebook/react-native
  */
+"use strict";
 
 import React, {
   AppRegistry,
@@ -16,7 +17,7 @@ class VotesterApp extends Component {
     return (
       <View style={styles.container}>
         <Text style={styles.welcome}>
-          Welcome to Votester
+          Votester
         </Text>
       </View>
     );
